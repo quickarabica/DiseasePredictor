@@ -1,1 +1,2 @@
 # DiseasePredictor
+Author - Priyanshu Khatick
